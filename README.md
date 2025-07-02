@@ -36,7 +36,7 @@ I come from an engineering and geomatics background, and have worked with:
 
 📫 Feel free to connect:  
 - Email: hagerhamdyhh97@gmail.com  
-- LinkedIn: [linkedin.com/in/hagerhamdy](https://www.linkedin.com/in/hagerhamdy)
+- LinkedIn: [linkedin.com/in/hagerhamdy](www.linkedin.com/in/hager-hamdy-460a42201)
 
 ---
 
