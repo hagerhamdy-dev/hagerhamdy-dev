@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Hager Hamdy
+![Profile views](https://komarev.com/ghpvc/?username=hagerhamdy-dev&color=blue&style=flat-square)
 
 I'm a GIS Developer with a growing interest in front-end development.  
 I enjoy working with maps, data, and anything we can build with code to create a real impact on society. I'm also passionate about problem solving and connecting ideas across different fields.
